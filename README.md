@@ -1,6 +1,8 @@
 # Pink-Panther-SSD-Keras
 Small hack which performs detection of Pink Panther and The Little Man using SSD7 built in Keras. The iteresting thing is that it learns in a very few samples.
 
+<img src="./assets/pp.png">
+
 ## Description of Files
 Following is the list of files in the model:
 
